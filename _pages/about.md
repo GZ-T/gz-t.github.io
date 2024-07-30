@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/64adbfbe-0f44-44b0-ad4e-28fc777d303b)---
 permalink: /
 title: ""
 excerpt: ""
@@ -111,7 +110,7 @@ Multi-Memory Streams: A Paradigm for Online Video Super-Resolution in Complex Ex
 - *2017.09* National University Student Intelligent Vehicle Competition, First Prize. 
 - *2016.11* National University Student Educational Robot Competition, First Prize. 
 
-# Educations
+# 🎓 Educations
 - *2021.09 - 2025.06*, Ph.D. Dalian University of Technology, Computer Science and Technology.
 - *2018.09 - 2020.06*, M.S. Huazhong University of Science and Technology, Power Engineering.
 - *2014.09 - 2018.06*, B.S. Nanchang University, Mechanical Design, Manufacturing & Automation. 
