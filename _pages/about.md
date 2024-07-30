@@ -74,7 +74,35 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VSCNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, 2024, Major Revised**)
+
+**Guozhi Tang**, Hongwei Ge*, Liang Sun, Yaqing Hou, Mingde Zhao
+
+**Keywords**
+- Image Super-resolution
+- Physical Imaging Mechanism
+- Photon Cross-talk
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MMVSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-Memory Streams: A Paradigm for Online Video Super-Resolution in Complex Exposure Scenes (**IEEE TNNLS, 2024, Under Review**)
+
+**Guozhi Tang**, Hongwei Ge*, Yong Luo, Bo Li, Kai Lin
+
+**Keywords**
+- Online Video Super-resolution
+- Multi-memory Streams
+- Dynamic-static Decoupled Alignment
+- Exposure Detect-correction
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
