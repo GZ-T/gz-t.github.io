@@ -105,8 +105,11 @@ Multi-Memory Streams: A Paradigm for Online Video Super-Resolution in Complex Ex
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021-2024* Dalian University of Technology, Second Prize Scholarship. 
+- *2019.09* Huazhong University of Science and Technology, Second Prize Scholarship.
+- *2018.09* Huazhong University of Science and Technology, First Prize Scholarship. 
+- *2017.09* First Prize of National University Student Intelligent Vehicle Competition. 
+- *2016.11* First Prize of National University Student Educational Robot Competition. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
