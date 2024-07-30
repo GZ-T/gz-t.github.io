@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : 
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guozhi Tang"
   avatar           : "images/photo.png"
-  bio              : "Dalian University of Technology"
-  location         : "Dalian, China"
+  bio              : "Dalian University of Technology (DUT)"
+  location         : "Dalian, Liaoning, China"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/GZ-T"
   google_plus      :
   keybase          :
   instagram        :
