@@ -40,9 +40,21 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 - Weakly-supervised
 - Degeneration Space
 - Localization & Saturation
+</div>
+</div>
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PDFSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressive reconstruction-decoupled face super-resolution framework with controllable knowledge guidance](https://www.sciencedirect.com/science/article/pii/S0950705124006269?via%3Dihub), (**Knowledge-Based Systems, 2024**)
+
+**Guozhi Tang**, Hongwei Ge*, Enxuan Gu, Yaqing Hou, Mingde Zhao
+
+**Keywords**
+- Face Super-resolution
+- Decoupled Reconstruction
+- Knowledge Base
+- Controllable Knowledge
 </div>
 </div>
 
