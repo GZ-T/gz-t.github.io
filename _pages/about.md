@@ -21,8 +21,9 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. (SCI, Q1, IF=7.2)
+- *2024.05*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. (SCI, Q1, IF=7.2)
+- *2021.10*: &nbsp;🎉🎉 A paper is accepted by the ACTA PHYSICA SINICA. (SCI, Q3, IF=0.8)
 
 # 📝 Publications 
 
