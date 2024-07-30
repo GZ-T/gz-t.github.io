@@ -112,8 +112,9 @@ Multi-Memory Streams: A Paradigm for Online Video Super-Resolution in Complex Ex
 - *2016.11* National University Student Educational Robot Competition, First Prize. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06*, Ph.D. Dalian University of Technology, Computer Science and Technology.
+- *2018.09 - 2020.06*, M.S. Huazhong University of Science and Technology, Power Engineering.
+- *2014.09 - 2018.06*, B.S. Nanchang University, Mechanical Design, Manufacturing & Automation. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
