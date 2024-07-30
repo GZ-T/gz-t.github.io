@@ -108,8 +108,8 @@ Multi-Memory Streams: A Paradigm for Online Video Super-Resolution in Complex Ex
 - *2021-2024* Dalian University of Technology, Second Prize Scholarship. 
 - *2019.09* Huazhong University of Science and Technology, Second Prize Scholarship.
 - *2018.09* Huazhong University of Science and Technology, First Prize Scholarship. 
-- *2017.09* First Prize of National University Student Intelligent Vehicle Competition. 
-- *2016.11* First Prize of National University Student Educational Robot Competition. 
+- *2017.09* National University Student Intelligent Vehicle Competition, First Prize. 
+- *2016.11* National University Student Educational Robot Competition, First Prize. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
