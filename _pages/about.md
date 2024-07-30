@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my M.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2020 and B.Eng degree from [Nanchang University](https://www.ncu.edu.cn/) in 2018. I am currently working toward an Ph.D. degree in Computer Science and Technology at at [Dalian University of Technology](https://www.dlut.edu.cn/). My current research interests include low-level vision and AI for Industry.
+I received my M.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2020 and B.Eng degree from [Nanchang University](https://www.ncu.edu.cn/) in 2018. I am currently working toward an Ph.D. degree in Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/). My current research interests include Low-level Vision and AI for Industry.
 
 
 # 🔥 News
