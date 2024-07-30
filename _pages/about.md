@@ -77,7 +77,7 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VSCNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, 2024, Major Revised**)
+A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, Major Revised**)
 
 **Guozhi Tang**, Hongwei Ge*, Liang Sun, Yaqing Hou, Mingde Zhao
 
@@ -92,7 +92,7 @@ A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MMVSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-Memory Streams: A Paradigm for Online Video Super-Resolution in Complex Exposure Scenes (**IEEE TNNLS, 2024, Under Review**)
+Multi-Memory Streams: A Paradigm for Online Video Super-Resolution in Complex Exposure Scenes (**IEEE TNNLS, Under Review**)
 
 **Guozhi Tang**, Hongwei Ge*, Yong Luo, Bo Li, Kai Lin
 
