@@ -26,7 +26,7 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by the IEEE Internet of Things Journal. (SCI, Q1, IF=8.2)
 - *2024.06*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. (SCI, Q1, IF=7.2)
 - *2024.05*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. (SCI, Q1, IF=7.2)
-- *2021.10*: &nbsp;🎉🎉 A paper is accepted by the ACTA PHYSICA SINICA. (SCI, Q3, IF=0.8)
+- *2021.10*: &nbsp;🎉🎉 A paper is accepted by the Acta Physica Sinica. (SCI, Q3, IF=0.8)
 
 # 📝 Publications 
 
@@ -80,7 +80,7 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VSCNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, Minor revisions before acceptance**)
+A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, 2021, Accepted**)
 
 **Guozhi Tang**, Hongwei Ge*, Liang Sun, Yaqing Hou, Mingde Zhao
 
