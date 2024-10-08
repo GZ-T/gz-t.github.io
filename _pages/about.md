@@ -31,6 +31,20 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VSCNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, 2024, Accepted**)
+
+**Guozhi Tang**, Hongwei Ge*, Liang Sun, Yaqing Hou, Mingde Zhao
+
+**Keywords**
+- Image Super-resolution
+- Physical Imaging Mechanism
+- Photon Cross-talk
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DSLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,20 +88,6 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 - Structure Generation
 - Thermal Conductivity
 - Conditional
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VSCNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, 2021, Accepted**)
-
-**Guozhi Tang**, Hongwei Ge*, Liang Sun, Yaqing Hou, Mingde Zhao
-
-**Keywords**
-- Image Super-resolution
-- Physical Imaging Mechanism
-- Photon Cross-talk
 </div>
 </div>
 
