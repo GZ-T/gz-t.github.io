@@ -22,6 +22,7 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 A paper is accepted by the IEEE Transactions on Industrial Informatics. (SCI, Q1, IF=11.7)
 - *2024.10*: &nbsp;🎉🎉 A paper is accepted by the IEEE Transactions on Image Processing. (SCI, Q1, IF=10.8)
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by the IEEE Internet of Things Journal. (SCI, Q1, IF=8.2)
 - *2024.06*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. (SCI, Q1, IF=7.2)
