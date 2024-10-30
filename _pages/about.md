@@ -35,7 +35,7 @@ I received my M.S. degree from [Huazhong University of Science and Technology](h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VSCNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution (**IEEE TIP, 2024, Accepted**)
+[A Virtual-Sensor Construction Network Based on Physical Imaging for Image Super-Resolution ](https://ieeexplore.ieee.org/document/10709890?source=authoralert)(**IEEE TIP, 2024, Accepted**)
 
 **Guozhi Tang**, Hongwei Ge*, Liang Sun, Yaqing Hou, Mingde Zhao
 
